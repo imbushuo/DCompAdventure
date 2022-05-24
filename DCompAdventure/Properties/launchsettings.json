@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DCompAdventure (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "DCompAdventure (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
